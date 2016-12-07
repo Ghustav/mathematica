@@ -1,5 +1,5 @@
 %Gustavo Mejia
-%CI 25302093
+%CI 25.302.093
 %Demostrar por inducción que la altura de un arbol de Fibonacci de orden K es K
 
 pr(0028-1, ['demostrar, induccion, altura, arbol, Fibonacci, orden, k, es, k'], 
